@@ -1,0 +1,14 @@
+form label{
+    color: white;
+}
+
+form input{
+    border-radius: 0.375rem;
+}
+form textarea{
+    border-radius: 0.375rem;
+}
+form select{
+    border-radius: 0.375rem;
+}
+
